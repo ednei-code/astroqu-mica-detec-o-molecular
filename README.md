@@ -3,7 +3,7 @@ Análise exploratória de dados e clusterização de moléculas interestelares c
 
 # Análise da Detectabilidade Espectroscópica de Moléculas 
 
-Este projeto investiga a relação entre **complexidade molecular**, **composição química** e **detectabilidade espectroscópica** de moléculas interestelares, utilizando dados derivados de catálogos espectroscópicos amplamente empregados em estudos de astroquímica observacional.
+Este projeto investiga a relação entre **complexidade molecular**, **composição química** e **detectabilidade espectroscópica** de moléculas , utilizando dados derivados de catálogos espectroscópicos amplamente empregados em estudos de astroquímica observacional.
 
 A análise combina **exploração estatística de dados** e **técnicas de aprendizado não supervisionado** para identificar padrões físico-químicos e regimes moleculares associados a diferentes níveis de riqueza espectral, medida pelo número de linhas espectrais catalogadas (`n_lines`).
 
