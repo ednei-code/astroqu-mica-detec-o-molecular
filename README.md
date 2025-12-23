@@ -1,7 +1,7 @@
 # astroqu-mica-detec-o-molecular
 Análise exploratória de dados e clusterização de moléculas interestelares com foco na complexidade molecular e na detectabilidade espectroscópica.
 
-# Análise da Detectabilidade Espectroscópica de Moléculas Interestelares
+# Análise da Detectabilidade Espectroscópica de Moléculas 
 
 Este projeto investiga a relação entre **complexidade molecular**, **composição química** e **detectabilidade espectroscópica** de moléculas interestelares, utilizando dados derivados de catálogos espectroscópicos amplamente empregados em estudos de astroquímica observacional.
 
