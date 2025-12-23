@@ -53,11 +53,17 @@ Os arquivos analisados representam versões consolidadas e estruturadas desses c
 
 ---
 
+ 
+
 ## 👤 Autor
 
 **Ednei Cunha Vicente**  
 Cientista de Dados  
 Entusiasta de Astrofísica e Astroquímica  
+
+🔗 LinkedIn: [https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/ednei-cunha-vicente-551b64187/)  
+📧 E-mail: ednei.adgpo@gmail.com
+
 
 ---
 
