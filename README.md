@@ -35,8 +35,12 @@ A análise combina **exploração estatística de dados** e **técnicas de apren
 
 Os dados utilizados neste projeto são derivados de catálogos espectroscópicos de referência na astroquímica observacional:
 
-- **CDMS** — Cologne Database for Molecular Spectroscopy  
-- **JPL Molecular Spectroscopy Catalog (NASA)**
+- **CDMS — Cologne Database for Molecular Spectroscopy**  
+  https://cdms.astro.uni-koeln.de/
+
+- **JPL Molecular Spectroscopy Catalog (NASA)**  
+  https://spec.jpl.nasa.gov/
+
 
 Os arquivos analisados representam versões consolidadas e estruturadas desses catálogos, utilizadas exclusivamente para fins **educacionais e científicos**, respeitando as diretrizes de citação e atribuição das fontes originais.
 
