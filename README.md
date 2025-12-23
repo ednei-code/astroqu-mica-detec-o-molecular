@@ -1,5 +1,5 @@
 # astroqu-mica-detec-o-molecular
-Análise exploratória de dados e agrupamento de moléculas interestelares com foco na complexidade molecular e na detectabilidade espectroscópica.
+Análise exploratória de dados e clusterização de moléculas interestelares com foco na complexidade molecular e na detectabilidade espectroscópica.
 
 # Análise da Detectabilidade Espectroscópica de Moléculas Interestelares
 
